@@ -1,5 +1,3 @@
 # Category Theory
 
-## Monoidal
-
-### [Cospan\Hypergraph](Cospan.md)
+## [Monoidal](Monoidal.md)
