@@ -4,7 +4,7 @@
 
 ### Cospan\Hypergraph
 
-##### The Algebra of Open and Interconnected Systems
+##### [The Algebra of Open and Interconnected Systems](1609.05382.pdf)
 
 https://golem.ph.utexas.edu/category/2018/02/hypergraph_categories_of_cospa.html  
 
@@ -17,7 +17,7 @@ https://arxiv.org/abs/1609.05382
 The first part of this thesis develops the theory of hypergraph categories. In particular, we introduce the tools of decorated cospans and corelations. Decorated cospans allow straightforward construction of hypergraph categories from diagrammatic languages: the inputs, outputs, and their composition are modelled by the cospans, while the 'decorations' specify the components themselves. Not all hypergraph categories can be constructed, however, through decorated cospans. Decorated corelations are a more powerful version that permits construction of all hypergraph categories and hypergraph functors. These are often useful for constructing the semantic categories of diagrammatic languages and functors from diagrams to the semantics. To illustrate these principles, the second part of this thesis details applications to linear time-invariant dynamical systems and passive linear networks. 
 
 -----
-#### Decorated Cospans
+#### [Decorated Cospans](1502.00872.pdf)
 https://golem.ph.utexas.edu/category/2016/01/decorated_cospans.html
 
 https://arxiv.org/abs/1502.00872 
