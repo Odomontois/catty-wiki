@@ -6,7 +6,8 @@
 
 ##### The Algebra of Open and Interconnected Systems
 
-https://golem.ph.utexas.edu/category/2018/02/hypergraph_categories_of_cospa.html
+https://golem.ph.utexas.edu/category/2018/02/hypergraph_categories_of_cospa.html  
+
 https://arxiv.org/abs/1609.05382 
 
 **Brendan Fong**  
@@ -18,6 +19,7 @@ The first part of this thesis develops the theory of hypergraph categories. In p
 -----
 #### Decorated Cospans
 https://golem.ph.utexas.edu/category/2016/01/decorated_cospans.html
+
 https://arxiv.org/abs/1502.00872 
 
 **Brendan Fong**  
