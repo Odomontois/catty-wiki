@@ -2,4 +2,4 @@
 
 ## [Category Theory](category-theory/Main.md)
 
-## [Type Theory](type-thepry/Main.md)
+## [Type Theory](type-theory/Main.md)
